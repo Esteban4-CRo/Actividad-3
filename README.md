@@ -1,53 +1,53 @@
 ﻿# Actividad 3 — Checklist UX Writing & Leyes de UX
 
-> **Esteban Campiño · Cód. 2369228**  
-> Diseño Centrado en el Usuario — Universidad Antonio Nariño  
-> Fecha de entrega: 26 de septiembre de 2026
+**Esteban Campino · Cod. 2369228**
+Diseno Centrado en el Usuario — Universidad Antonio Narino
+Fecha de entrega: 26 de septiembre de 2026
 
 ---
 
-## 📌 Descripción
+## Descripcion
 
-Aplicación web interactiva construida con **React + Vite** que permite evaluar sitios web reales aplicando:
+Aplicacion web interactiva construida con React + Vite que permite evaluar sitios web reales aplicando:
 
-- ✅ **Checklist de UX Writing** (claridad, tono, accesibilidad, microcopy…)
-- 🧠 **Leyes de UX** (Hick, Fitts, Miller, Jakob, etc.)
-- 📊 Comparación visual entre sitios
-- 📖 Guía teórica integrada
+- Checklist de UX Writing (claridad, tono, accesibilidad, microcopy)
+- Leyes de UX (Hick, Fitts, Miller, Jakob, entre otras)
+- Comparacion visual entre sitios
+- Guia teorica integrada
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 Actividad-3/
-├── src/
-│   ├── components/
-│   │   ├── Header.jsx               # Encabezado principal
-│   │   ├── SiteCard.jsx             # Tarjeta de sitio evaluado
-│   │   ├── SiteModal.jsx            # Modal de detalle por sitio
-│   │   ├── InteractiveEvaluator.jsx # Evaluador interactivo con checklist
-│   │   ├── ComparisonView.jsx       # Vista comparativa entre sitios
-│   │   ├── StatsOverview.jsx        # Resumen estadístico general
-│   │   └── TheoryGuide.jsx          # Guía teórica de Leyes de UX
-│   ├── data/
-│   │   ├── checklistCriteria.js     # Criterios del checklist UX Writing
-│   │   └── sitesData.js             # Datos de los sitios evaluados
-│   ├── styles/
-│   │   └── index.css                # Estilos globales
-│   ├── App.jsx                      # Componente raíz
-│   └── main.jsx                     # Punto de entrada
-├── index.html                       # HTML base (Vite)
-├── vite.config.js                   # Configuración de Vite
-├── package.json                     # Dependencias
-├── Actividad Practica 3.docx        # 📄 Documento de la actividad
-├── Informe_Tecnico_UX_Esteban_Campino.pdf  # 📄 Informe técnico
-└── README.md
+|-- src/
+|   |-- components/
+|   |   |-- Header.jsx
+|   |   |-- SiteCard.jsx
+|   |   |-- SiteModal.jsx
+|   |   |-- InteractiveEvaluator.jsx
+|   |   |-- ComparisonView.jsx
+|   |   |-- StatsOverview.jsx
+|   |   -- TheoryGuide.jsx
+|   |-- data/
+|   |   |-- checklistCriteria.js
+|   |   -- sitesData.js
+|   |-- styles/
+|   |   -- index.css
+|   |-- App.jsx
+|   -- main.jsx
+|-- index.html
+|-- vite.config.js
+|-- package.json
+|-- Actividad Practica 3.docx
+|-- Informe_Tecnico_UX_Esteban_Campino.pdf
+-- README.md
 ```
 
 ---
 
-## 🚀 Instalación y ejecución local
+## Instalacion y ejecucion local
 
 ```bash
 # 1. Clonar el repositorio
@@ -61,28 +61,28 @@ npm install
 npm run dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
+Abrir http://localhost:3000 en el navegador.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologias
 
-| Tecnología | Uso |
-|---|---|
-| React 18 | Framework UI |
-| Vite | Bundler y dev server |
-| Lucide React | Íconos |
-| Vanilla CSS | Estilos personalizados |
-
----
-
-## 📎 Nota sobre el tamaño del archivo
-
-El proyecto supera el límite de adjuntos permitido en la plataforma académica,  
-por lo que se entrega a través de este repositorio público de GitHub.
-
-**Repositorio:** https://github.com/Esteban4-CRo/Actividad-3
+| Tecnologia  | Uso                       |
+|-------------|---------------------------|
+| React 18    | Framework UI              |
+| Vite        | Bundler y dev server      |
+| Lucide React| Iconos                    |
+| Vanilla CSS | Estilos personalizados    |
 
 ---
 
-*© 2026 Esteban Campiño — Universidad Antonio Nariño*
+## Nota sobre el tamano del archivo
+
+El proyecto supera el limite de adjuntos permitido en la plataforma academica,
+por lo que se entrega a traves de este repositorio publico de GitHub.
+
+Repositorio: https://github.com/Esteban4-CRo/Actividad-3
+
+---
+
+2026 Esteban Campino — Universidad Antonio Narino
