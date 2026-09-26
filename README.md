@@ -1,7 +1,7 @@
-﻿# Actividad 3 — Checklist UX Writing & Leyes de UX
+# Actividad 3 — Checklist UX Writing & Leyes de UX
 
-**Esteban Campino · Cod. 2369228**
-Diseno Centrado en el Usuario — Universidad Antonio Narino
+**Esteban  · Cod. 2369228**
+Diseno Centrado en el Usuario — Uiversidad del Valle
 Fecha de entrega: 26 de septiembre de 2026
 
 ---
